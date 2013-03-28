@@ -1,9 +1,9 @@
 template_url:  https://github.com/telegr-am/template-base.git
 
-## Welcome
+#### Del Signo al...
+## ...TheCoda.net
 
-Welcome to your new Telegram site.  Check out the [Getting Started](/getting_started) page
-for information on how to set up your site.
+An under-construction site for thecoda.net
 
 <span data-lift="if?extra_true=has_blog">Welcome to my blog.  Here are my most recent blog posts:</span>
 
