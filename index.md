@@ -1,4 +1,6 @@
-##Del Signo al ... TheCoda.net</h2>
+template_url:  https://github.com/telegr-am/template-base.git
+
+##Del Signo al ... TheCoda.net
 
 #### An under-construction site for thecoda.net
 
