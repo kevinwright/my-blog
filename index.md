@@ -1,8 +1,4 @@
-<div>
-    <h4>Del Signo al...</h4>
-    <h2>...TheCoda.net</h2>
-</div>
-
+##Del Signo al ... TheCoda.net</h2>
 
 #### An under-construction site for thecoda.net
 
