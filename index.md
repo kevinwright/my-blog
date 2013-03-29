@@ -1,8 +1,6 @@
-template_url:  https://github.com/telegr-am/template-base.git
-
 <div>
-    #### Del Signo al...
-    ## ...TheCoda.net
+    <h4>Del Signo al...</h4>
+    <h2>...TheCoda.net</h2>
 </div>
 
 
